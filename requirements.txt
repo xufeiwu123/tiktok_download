@@ -1,8 +1,8 @@
-Flask==2.1.1
-Flask-Caching==2.0.1
-Flask-Limiter==2.6.0
-Flask-SQLAlchemy==2.5.1
-Flask-Celery-Helper==1.0.1
-redis==4.0.2
-requests==2.26.0
-celery==5.2.3
+Flask==2.1.1  
+Flask-Caching==2.0.1  
+Flask-Limiter==2.6.0  
+Flask-SQLAlchemy==2.5.1  
+# Flask-Celery-Helper==1.0.1  ← ✅ 注释掉或删除  
+redis==4.0.2  
+requests==2.26.0  
+celery==5.2.3  
